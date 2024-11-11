@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Dashboard DSHome</h1>
+      <h1>Dashboard DSHome | Quarto do Dinho</h1>
       <button onClick={ligarLampada} style={{ marginRight: '10px' }}>
         Ligar Lâmpada
       </button>
